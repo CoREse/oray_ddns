@@ -1,0 +1,2 @@
+server="ddns.oray.com"
+logfile="${WORKDIR}/log/oray.log"
