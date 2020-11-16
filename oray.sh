@@ -8,7 +8,7 @@ export WORKDIR
 cd "${WORKDIR}" || exit 1
 #--------------------------------------------------------------------------------
 
-. ./etc/sercet || exit 1
+. ./etc/secret || exit 1
 . ./etc/config || exit 1
 
 update_ddns() {
